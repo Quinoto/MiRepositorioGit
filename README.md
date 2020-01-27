@@ -17,4 +17,4 @@ Video 3
 git branch
 git checkout
 git merge
-
+git   -d
