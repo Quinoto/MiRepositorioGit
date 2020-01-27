@@ -6,3 +6,15 @@ En 1:44 del video 2 señala al archivo siguiente para aprender más de configura
 https://www.youtube.com/watch?v=o334x1W_RDY
 VuePress - Generador de Sitios Estáticos con VUE JS[ ESPAÑOL ]
 
+git pull
+git push
+git tag
+git log --oneline
+git push --tags
+
+Video 3
+
+git branch
+git checkout
+git merge
+
